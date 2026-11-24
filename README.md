@@ -5,7 +5,7 @@
 **מגיש הפרויקט:** אליהו זוזות (`Eliyahu Zuzut`) | `Data Analyst`  
 **טכנולוגיות וכלים:** `Google BigQuery (SQL)` • `Python (Pandas, Matplotlib, Seaborn)` • `Looker Studio (BI)` • `Linear Regression`
 
-🔗 **[למעבר לדשבורד האינטראקטיבי החי ב-`Looker Studio` — לחצו כאן](https://datastudio.google.com/reporting/4ab3d505-46cc-4910-9acd-285d622b8327)**  
+🔗 **[למעבר לדשבורד האינטראקטיבי החי ב-`Looker Studio` — לחצו כאן](https://datastudio.google.com/reporting/15f7f2b1-b474-4948-b5df-f79b480c3bde)**  
 📄 **[לקריאת הדו"ח המסכם המלא (`PDF`, 11 עמודים) — לחצו כאן](report/PenlinkSolution_Eliyahu_Zuzut_Report.pdf)**  
 💻 **[לצפייה בקוד ה-`SQL` המלא ב-`BigQuery` — לחצו כאן](sql/Shefa_Issachar_SQL_Queries_HE.sql)**  
 📊 **[לצפייה במצגת המנהלים (`PDF`, 8 שקפים) — לחצו כאן](presentation/Shefa_Issachar_Yavne_Presentation_HE.pdf)**
@@ -77,7 +77,7 @@
 
 ## 5. מערכת ה-`BI` האינטראקטיבית ב-`Looker Studio` (שלושה מסכי בקרה)
 
-🔗 **[כניסה לדשבורד החי והאינטראקטיבי ב-`Looker Studio`](https://datastudio.google.com/reporting/4ab3d505-46cc-4910-9acd-285d622b8327)** *(פתוח לצפייה וסינון דינמי)*
+🔗 **[כניסה לדשבורד החי והאינטראקטיבי ב-`Looker Studio`](https://datastudio.google.com/reporting/15f7f2b1-b474-4948-b5df-f79b480c3bde)** *(פתוח לצפייה וסינון דינמי)*
 
 ### מסך 1: מדדי מעקב אחר לקוחות וניטור עומסים ([גרסת `PDF`](dashboard/Screen1_Customer_Tracking_HE.pdf))
 כולל 12 כרטיסיות `KPIs` (`DAU`, `WAU`, `MAU`, יחסי דביקות `DAU/MAU` ו-`WAU/MAU`, המרה לתשלום, נטישה ואיכות קליטת `GPS`), 10 מסננים אינטראקטיביים, מפת חום שעתית-שבועית, מגמת לקוחות שבועית והתפלגות אזורים בסניף:
