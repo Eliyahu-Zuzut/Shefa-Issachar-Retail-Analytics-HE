@@ -6,9 +6,12 @@
 **טכנולוגיות וכלים:** `Google BigQuery (SQL)` • `Python (Pandas, Matplotlib, Seaborn)` • `Looker Studio (BI)` • `Linear Regression`
 
 🔗 **[למעבר לדשבורד האינטראקטיבי החי ב-`Looker Studio` — לחצו כאן](https://datastudio.google.com/reporting/01dc3d26-2869-4ead-87c6-9e16bee5f45d)**  
-📄 **[לקריאת הדו"ח המסכם המלא — לחצו כאן](report/PenlinkSolution_Eliyahu_Zuzut_Report.pdf)**  
+📊 **[לצפייה בקובץ הדשבורד המלא המיוצא (`PDF`) — לחצו כאן](dashboard/Shefa_BaKafa_Executive_Dashboard_HE.pdf)**  
+📄 **[לקריאת הדו"ח המסכם המלא (`PDF`, 11 עמודים) — לחצו כאן](report/PenlinkSolution_Eliyahu_Zuzut_Report.pdf)**  
 💻 **[לצפייה בקוד ה-`SQL` המלא ב-`BigQuery` — לחצו כאן](sql/Shefa_Issachar_SQL_Queries_HE.sql)**  
-📊 **[לצפייה במצגת המנהלים — לחצו כאן](presentation/Shefa_Issachar_Yavne_Presentation_HE.pdf)**
+🐍 **[לצפייה במחברת ה-`Python` (`Jupyter Notebook`) — לחצו כאן](notebooks/Python_solution_Eliyahu_Zuzut.ipynb)**  
+📽️ **[לצפייה במצגת המנהלים (`PDF`, 8 שקפים) — לחצו כאן](presentation/Shefa_Issachar_Yavne_Presentation_HE.pdf)**  
+🌐 **[למעבר לגרסת הפרויקט באנגלית (`Shefa-Issachar-Retail-Analytics-EN`) — לחצו כאן](https://github.com/Eliyahu-Zuzut/Shefa-Issachar-Retail-Analytics-EN)**
 
 ---
 
@@ -77,7 +80,7 @@
 
 ## 5. מערכת ה-`BI` האינטראקטיבית ב-`Looker Studio` (שלושה מסכי בקרה)
 
-🔗 **[כניסה לדשבורד החי והאינטראקטיבי ב-`Looker Studio`](https://datastudio.google.com/reporting/01dc3d26-2869-4ead-87c6-9e16bee5f45d)** *(פתוח לצפייה וסינון דינמי)*
+🔗 **[כניסה לדשבורד החי והאינטראקטיבי ב-`Looker Studio`](https://datastudio.google.com/reporting/01dc3d26-2869-4ead-87c6-9e16bee5f45d)** • 📄 **[הורדת הדשבורד המלא ב-`PDF`](dashboard/Shefa_BaKafa_Executive_Dashboard_HE.pdf)** *(פתוח לצפייה וסינון דינמי)*
 
 ### מסך 1: מדדי מעקב אחר לקוחות וניטור עומסים ([גרסת `PDF`](dashboard/Screen1_Customer_Tracking_HE.pdf))
 כולל 12 כרטיסיות `KPIs` (`DAU`, `WAU`, `MAU`, יחסי דביקות `DAU/MAU` ו-`WAU/MAU`, המרה לתשלום, נטישה ואיכות קליטת `GPS`), 10 מסננים אינטראקטיביים, מפת חום שעתית-שבועית, מגמת לקוחות שבועית והתפלגות אזורים בסניף:
