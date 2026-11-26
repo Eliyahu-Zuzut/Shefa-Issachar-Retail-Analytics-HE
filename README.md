@@ -7,10 +7,10 @@
 
 🔗 **[למעבר לדשבורד האינטראקטיבי החי ב-`Looker Studio`](https://datastudio.google.com/reporting/01dc3d26-2869-4ead-87c6-9e16bee5f45d)**  
 📊 **[לצפייה בקובץ הדשבורד המלא המיוצא (`PDF`)](dashboard/Shefa_BaKafa_Executive_Dashboard_HE.pdf)**  
-📄 **[לקריאת הדו"ח המסכם המלא (`PDF`, 11 עמודים)](report/PenlinkSolution_Eliyahu_Zuzut_Report.pdf)**  
+📄 **[לקריאת הדו"ח המסכם המלא ](report/PenlinkSolution_Eliyahu_Zuzut_Report.pdf)**  
 💻 **[לצפייה בקוד ה-`SQL` המלא ב-`BigQuery`](sql/Shefa_Issachar_SQL_Queries_HE.sql)**  
 🐍 **[לצפייה במחברת ה-`Python` (`Jupyter Notebook`)](notebooks/Python_solution_Eliyahu_Zuzut.ipynb)**  
-📽️ **[לצפייה במצגת המנהלים (`PDF`, 8 שקפים)](presentation/Shefa_Issachar_Yavne_Presentation_HE.pdf)**  
+📽️ **[לצפייה במצגת המנהלים ](presentation/Shefa_Issachar_Yavne_Presentation_HE.pdf)**  
 🌐 **[למעבר לגרסת הפרויקט באנגלית (`Shefa-Issachar-Retail-Analytics-EN`)](https://github.com/Eliyahu-Zuzut/Shefa-Issachar-Retail-Analytics-EN)**
 
 ---
